@@ -6,4 +6,4 @@ QT音乐播放器
 
 ## 效果图：
 
-![](README.assets/效果图.png)
+![](./README.assets/效果图.png)
